@@ -1,9 +1,13 @@
-
+import Learn from "./Learn"
 function App() {
   
 
   return (
-    <h1>Leran react</h1>
+    <>
+    <Learn />
+    <p>testing</p>
+    </>
+    
   )
 }
 
